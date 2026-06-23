@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Aryanv1118/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1840-maximum-building-height) |
