@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
