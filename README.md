@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Aryanv1118/DSA-Practice/tree/master/1768-merge-strings-alternately) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0682-baseball-game) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
