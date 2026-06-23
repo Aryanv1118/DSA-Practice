@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1840-maximum-building-height) |
 ## Recursion
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aryanv1118/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Aryanv1118/DSA-Practice/tree/master/0383-ransom-note) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0704-binary-search) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aryanv1118/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aryanv1118/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -276,5 +281,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
