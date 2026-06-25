@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aryanv1118/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Aryanv1118/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryanv1118/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Aryanv1118/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
