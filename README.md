@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Aryanv1118/DSA-Practice/tree/master/1768-merge-strings-alternately) |
+| [3612-process-string-with-special-operations-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3612-process-string-with-special-operations-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
