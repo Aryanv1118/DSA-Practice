@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanv1118/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryanv1118/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryanv1118/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryanv1118/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryanv1118/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryanv1118/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
