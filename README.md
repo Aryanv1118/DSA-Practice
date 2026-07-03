@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Aryanv1118/DSA-Practice/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Aryanv1118/DSA-Practice/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/Aryanv1118/DSA-Practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Aryanv1118/DSA-Practice/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
