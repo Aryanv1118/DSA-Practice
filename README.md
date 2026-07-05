@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Aryanv1118/DSA-Practice/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryanv1118/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -536,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Aryanv1118/DSA-Practice/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Aryanv1118/DSA-Practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Aryanv1118/DSA-Practice/tree/master/0596-classes-with-at-least-5-students) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Aryanv1118/DSA-Practice/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
