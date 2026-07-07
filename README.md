@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Aryanv1118/DSA-Practice/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanv1118/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Aryanv1118/DSA-Practice/tree/master/1768-merge-strings-alternately) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryanv1118/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Aryanv1118/DSA-Practice/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Aryanv1118/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryanv1118/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryanv1118/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Aryanv1118/DSA-Practice/tree/master/1046-last-stone-weight) |
@@ -403,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -569,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/Aryanv1118/DSA-Practice/tree/master/0458-poor-pigs) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
