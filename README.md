@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Aryanv1118/DSA-Practice/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Aryanv1118/DSA-Practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Aryanv1118/DSA-Practice/tree/master/0596-classes-with-at-least-5-students) |
+| [1683-invalid-tweets](https://github.com/Aryanv1118/DSA-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryanv1118/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 ## Brainteaser
 |  |
