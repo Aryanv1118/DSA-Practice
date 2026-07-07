@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryanv1118/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/2769-find-the-maximum-achievable-number) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/Aryanv1118/DSA-Practice/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -576,11 +578,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Aryanv1118/DSA-Practice/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1025-divisor-game) |
 ## Combinatorics
 |  |
 | ------- |
