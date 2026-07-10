@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Aryanv1118/DSA-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Aryanv1118/DSA-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0078-subsets) |
@@ -407,10 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aryanv1118/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/Aryanv1118/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
