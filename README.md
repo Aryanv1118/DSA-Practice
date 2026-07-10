@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryanv1118/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryanv1118/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Aryanv1118/DSA-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryanv1118/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanv1118/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Aryanv1118/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryanv1118/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Aryanv1118/DSA-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
