@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Aryanv1118/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Aryanv1118/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
