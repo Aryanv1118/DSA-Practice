@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanv1118/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanv1118/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Aryanv1118/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Aryanv1118/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryanv1118/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2437-number-of-valid-clock-times](https://github.com/Aryanv1118/DSA-Practice/tree/master/2437-number-of-valid-clock-times) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryanv1118/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aryanv1118/DSA-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2438-range-product-queries-of-powers](https://github.com/Aryanv1118/DSA-Practice/tree/master/2438-range-product-queries-of-powers) |
 | [2439-minimize-maximum-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryanv1118/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryanv1118/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryanv1118/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
