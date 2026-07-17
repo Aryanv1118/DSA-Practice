@@ -1,26 +1,19 @@
 class Solution {
 public:
-    struct comp{
-        bool operator()(pair<int,char>&a, pair<int,char>& b)const{
-            if(a.first == b.first){
-                return a.second > b.second;
-            }
-            return a.first < b.first;
-        }
-    };
     string frequencySort(string s) {
+        int n = s.length();
+        vector<vector<char>> buckets(n+1);
         unordered_map<char,int> mp;
         for(char c: s)
             mp[c]++;
-        priority_queue<pair<int,char>,vector<pair<int,char>>,comp> pq;
-        for(auto &it:mp){
-            pq.push({it.second,it.first});
-        }
+        for(auto &it:mp)
+            buckets[it.second].push_back(it.first);
         string ans;
-        while(!pq.empty()){
-            auto[freq,c] = pq.top();
-            ans += string(freq,c);
-            pq.pop();
+        
+        for(int i = n;i>=1;i--){
+            sort(buckets[i].begin(),buckets[i].end());
+            for(char c:buckets[i])
+                ans.append(i,c);
         }
         return ans;
     }
