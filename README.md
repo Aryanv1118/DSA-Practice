@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryanv1118/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2437-number-of-valid-clock-times](https://github.com/Aryanv1118/DSA-Practice/tree/master/2437-number-of-valid-clock-times) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryanv1118/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryanv1118/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2439-minimize-maximum-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2439-minimize-maximum-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
