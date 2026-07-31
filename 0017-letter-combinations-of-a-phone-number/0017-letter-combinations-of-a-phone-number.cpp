@@ -14,7 +14,7 @@ public:
     }
     vector<string> letterCombinations(string digits) {
        unordered_map<char,string>mp = {{'2',"abc"},{'3',"def"},{'4',"ghi"},{'5',"jkl"},{'6',"mno"},{'7',"pqrs"},{'8',"tuv"},{'9',"wxyz"}};
-       string s = "";
+       string s;
        vector<string> ans;
        backtrack(s,mp,ans,digits,0);
        return ans; 
