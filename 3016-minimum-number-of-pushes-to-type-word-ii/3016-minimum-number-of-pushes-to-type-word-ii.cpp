@@ -9,7 +9,8 @@ public:
         sort(freq.begin(),freq.end());
         reverse(freq.begin(),freq.end());
         for(int i = 0;i<26;i++){
-            ans += (i/8+1)*freq[i];
+            int pushes = i/8+1;
+            ans += pushes*freq[i];
         }
         return ans;
     }
