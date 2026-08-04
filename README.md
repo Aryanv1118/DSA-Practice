@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Aryanv1118/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aryanv1118/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Aryanv1118/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [2439-minimize-maximum-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2439-minimize-maximum-of-array) |
 ## Union-Find
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Segment Tree
 |  |
 | ------- |
