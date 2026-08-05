@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aryanv1118/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Aryanv1118/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Aryanv1118/DSA-Practice/tree/master/0061-rotate-list) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aryanv1118/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aryanv1118/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aryanv1118/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aryanv1118/DSA-Practice/tree/master/0042-trapping-rain-water) |
