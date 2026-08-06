@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Aryanv1118/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Aryanv1118/DSA-Practice/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Aryanv1118/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Aryanv1118/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0567-permutation-in-string) |
