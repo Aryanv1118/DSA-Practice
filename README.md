@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Aryanv1118/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0292-nim-game) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Aryanv1118/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Aryanv1118/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0394-decode-string) |
