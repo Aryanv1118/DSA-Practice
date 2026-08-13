@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aryanv1118/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aryanv1118/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/Aryanv1118/DSA-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Aryanv1118/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Aryanv1118/DSA-Practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aryanv1118/DSA-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aryanv1118/DSA-Practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0090-subsets-ii) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Aryanv1118/DSA-Practice/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/Aryanv1118/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Aryanv1118/DSA-Practice/tree/master/1260-shift-2d-grid) |
 ## Simulation
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Aryanv1118/DSA-Practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryanv1118/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0099-recover-binary-search-tree) |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Aryanv1118/DSA-Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aryanv1118/DSA-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
