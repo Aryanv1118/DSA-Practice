@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Aryanv1118/DSA-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aryanv1118/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aryanv1118/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Aryanv1118/DSA-Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aryanv1118/DSA-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0078-subsets) |
