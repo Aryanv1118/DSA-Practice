@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Aryanv1118/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1840-maximum-building-height](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryanv1118/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryanv1118/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryanv1118/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryanv1118/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryanv1118/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryanv1118/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2439-minimize-maximum-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2439-minimize-maximum-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -869,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aryanv1118/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -907,10 +912,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aryanv1118/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aryanv1118/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -919,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aryanv1118/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Pigeonhole Principle
 |  |
 | ------- |
