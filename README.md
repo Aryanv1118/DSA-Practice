@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0888-fair-candy-swap](https://github.com/Aryanv1118/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Aryanv1118/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Aryanv1118/DSA-Practice/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/Aryanv1118/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryanv1118/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Aryanv1118/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/Aryanv1118/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryanv1118/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryanv1118/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aryanv1118/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Aryanv1118/DSA-Practice/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/Aryanv1118/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Aryanv1118/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryanv1118/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
