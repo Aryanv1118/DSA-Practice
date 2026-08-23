@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Aryanv1118/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Aryanv1118/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Aryanv1118/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [3310-remove-methods-from-project](https://github.com/Aryanv1118/DSA-Practice/tree/master/3310-remove-methods-from-project) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aryanv1118/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aryanv1118/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Aryanv1118/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/Aryanv1118/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -966,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Aryanv1118/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryanv1118/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/Aryanv1118/DSA-Practice/tree/master/3310-remove-methods-from-project) |
