@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryanv1118/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/Aryanv1118/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aryanv1118/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryanv1118/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Aryanv1118/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aryanv1118/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aryanv1118/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aryanv1118/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Aryanv1118/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aryanv1118/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryanv1118/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/Aryanv1118/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1065,4 +1068,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Aryanv1118/DSA-Practice/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryanv1118/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aryanv1118/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aryanv1118/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aryanv1118/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aryanv1118/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
