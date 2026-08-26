@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Aryanv1118/DSA-Practice/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Aryanv1118/DSA-Practice/tree/master/0319-bulb-switcher) |
