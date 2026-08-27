@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/Aryanv1118/DSA-Practice/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Aryanv1118/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0834-sum-of-distances-in-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0834-sum-of-distances-in-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Aryanv1118/DSA-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Aryanv1118/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+| [0834-sum-of-distances-in-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Aryanv1118/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/Aryanv1118/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -1004,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aryanv1118/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Aryanv1118/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+| [0834-sum-of-distances-in-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Aryanv1118/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Aryanv1118/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aryanv1118/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -1108,4 +1112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aryanv1118/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
