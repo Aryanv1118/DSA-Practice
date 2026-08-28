@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aryanv1118/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryanv1118/DSA-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0419-battleships-in-a-board](https://github.com/Aryanv1118/DSA-Practice/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryanv1118/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Aryanv1118/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aryanv1118/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Aryanv1118/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aryanv1118/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0419-battleships-in-a-board](https://github.com/Aryanv1118/DSA-Practice/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/Aryanv1118/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Aryanv1118/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Aryanv1118/DSA-Practice/tree/master/1260-shift-2d-grid) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aryanv1118/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/Aryanv1118/DSA-Practice/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aryanv1118/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
