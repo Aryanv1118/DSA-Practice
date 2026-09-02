@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Aryanv1118/DSA-Practice/tree/master/0319-bulb-switcher) |
+| [0371-sum-of-two-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryanv1118/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/Aryanv1118/DSA-Practice/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Aryanv1118/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aryanv1118/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Aryanv1118/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2438-range-product-queries-of-powers](https://github.com/Aryanv1118/DSA-Practice/tree/master/2438-range-product-queries-of-powers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanv1118/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
