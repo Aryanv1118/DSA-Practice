@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aryanv1118/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Aryanv1118/DSA-Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aryanv1118/DSA-Practice/tree/master/0075-sort-colors) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Aryanv1118/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Aryanv1118/DSA-Practice/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0174-dungeon-game) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Aryanv1118/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0097-interleaving-string) |
