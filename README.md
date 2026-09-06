@@ -875,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0834-sum-of-distances-in-tree) |
+| [1145-binary-tree-coloring-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Aryanv1118/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [1145-binary-tree-coloring-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [3310-remove-methods-from-project](https://github.com/Aryanv1118/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1145-binary-tree-coloring-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 ## Enumeration
 |  |
 | ------- |
