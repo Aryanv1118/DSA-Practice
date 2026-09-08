@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Aryanv1118/DSA-Practice/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Aryanv1118/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Aryanv1118/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryanv1118/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/Aryanv1118/DSA-Practice/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Aryanv1118/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aryanv1118/DSA-Practice/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Aryanv1118/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryanv1118/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryanv1118/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Aryanv1118/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Aryanv1118/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1929-concatenation-of-array) |
