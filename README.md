@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Aryanv1118/DSA-Practice/tree/master/0319-bulb-switcher) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Aryanv1118/DSA-Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Aryanv1118/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Aryanv1118/DSA-Practice/tree/master/0412-fizz-buzz) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Aryanv1118/DSA-Practice/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Aryanv1118/DSA-Practice/tree/master/0312-burst-balloons) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Aryanv1118/DSA-Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/Aryanv1118/DSA-Practice/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Aryanv1118/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Aryanv1118/DSA-Practice/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Aryanv1118/DSA-Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search Tree
