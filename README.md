@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aryanv1118/DSA-Practice/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Aryanv1118/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Aryanv1118/DSA-Practice/tree/master/0164-maximum-gap) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Aryanv1118/DSA-Practice/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Aryanv1118/DSA-Practice/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Aryanv1118/DSA-Practice/tree/master/0312-burst-balloons) |
