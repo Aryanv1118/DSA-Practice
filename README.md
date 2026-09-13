@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Aryanv1118/DSA-Practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/Aryanv1118/DSA-Practice/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Aryanv1118/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Aryanv1118/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0877-stone-game) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Aryanv1118/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/Aryanv1118/DSA-Practice/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/Aryanv1118/DSA-Practice/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Aryanv1118/DSA-Practice/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Aryanv1118/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Aryanv1118/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryanv1118/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
