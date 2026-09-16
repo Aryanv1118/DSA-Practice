@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [1220-count-vowels-permutation](https://github.com/Aryanv1118/DSA-Practice/tree/master/1220-count-vowels-permutation) |
 | [1406-stone-game-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aryanv1118/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aryanv1118/DSA-Practice/tree/master/1563-stone-game-v) |
