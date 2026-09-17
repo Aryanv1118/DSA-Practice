@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanv1118/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aryanv1118/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryanv1118/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanv1118/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryanv1118/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryanv1118/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Aryanv1118/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryanv1118/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aryanv1118/DSA-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/Aryanv1118/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Aryanv1118/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryanv1118/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryanv1118/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aryanv1118/DSA-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2439-minimize-maximum-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2439-minimize-maximum-of-array) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1220-count-vowels-permutation](https://github.com/Aryanv1118/DSA-Practice/tree/master/1220-count-vowels-permutation) |
 | [1406-stone-game-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Aryanv1118/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aryanv1118/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryanv1118/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
