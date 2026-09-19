@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aryanv1118/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aryanv1118/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aryanv1118/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aryanv1118/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Aryanv1118/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/Aryanv1118/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryanv1118/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aryanv1118/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Tree
 |  |
 | ------- |
