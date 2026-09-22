@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2166-design-bitset](https://github.com/Aryanv1118/DSA-Practice/tree/master/2166-design-bitset) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryanv1118/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryanv1118/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2166-design-bitset](https://github.com/Aryanv1118/DSA-Practice/tree/master/2166-design-bitset) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryanv1118/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aryanv1118/DSA-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Aryanv1118/DSA-Practice/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Aryanv1118/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2438-range-product-queries-of-powers](https://github.com/Aryanv1118/DSA-Practice/tree/master/2438-range-product-queries-of-powers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanv1118/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
