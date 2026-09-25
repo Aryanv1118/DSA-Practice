@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Aryanv1118/DSA-Practice/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanv1118/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Aryanv1118/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aryanv1118/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanv1118/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanv1118/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aryanv1118/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Aryanv1118/DSA-Practice/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Aryanv1118/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryanv1118/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Aryanv1118/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aryanv1118/DSA-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -1017,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Aryanv1118/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Aryanv1118/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Aryanv1118/DSA-Practice/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3310-remove-methods-from-project](https://github.com/Aryanv1118/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryanv1118/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1089,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Aryanv1118/DSA-Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search Tree
 |  |
