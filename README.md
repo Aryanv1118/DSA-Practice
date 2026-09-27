@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aryanv1118/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryanv1118/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanv1118/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanv1118/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/1528-shuffle-string) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryanv1118/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aryanv1118/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Aryanv1118/DSA-Practice/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
@@ -1301,4 +1303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryanv1118/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
