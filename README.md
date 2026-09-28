@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanv1118/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryanv1118/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2166-design-bitset](https://github.com/Aryanv1118/DSA-Practice/tree/master/2166-design-bitset) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1079,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Aryanv1118/DSA-Practice/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Aryanv1118/DSA-Practice/tree/master/1291-sequential-digits) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2437-number-of-valid-clock-times](https://github.com/Aryanv1118/DSA-Practice/tree/master/2437-number-of-valid-clock-times) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanv1118/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1107,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Aryanv1118/DSA-Practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search Tree
 |  |
