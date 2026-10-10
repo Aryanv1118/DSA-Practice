@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aryanv1118/DSA-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aryanv1118/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryanv1118/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2438-range-product-queries-of-powers](https://github.com/Aryanv1118/DSA-Practice/tree/master/2438-range-product-queries-of-powers) |
 | [2439-minimize-maximum-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryanv1118/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryanv1118/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryanv1118/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aryanv1118/DSA-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryanv1118/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2439-minimize-maximum-of-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Aryanv1118/DSA-Practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanv1118/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Aryanv1118/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryanv1118/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryanv1118/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryanv1118/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryanv1118/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryanv1118/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryanv1118/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Aryanv1118/DSA-Practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryanv1118/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryanv1118/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Aryanv1118/DSA-Practice/tree/master/1046-last-stone-weight) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryanv1118/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Aryanv1118/DSA-Practice/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Bucket Sort
 |  |
