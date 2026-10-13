@@ -1018,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryanv1118/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryanv1118/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aryanv1118/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aryanv1118/DSA-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryanv1118/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1048,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryanv1118/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aryanv1118/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aryanv1118/DSA-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Aryanv1118/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/Aryanv1118/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
@@ -1200,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aryanv1118/DSA-Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Aryanv1118/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Aryanv1118/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
@@ -1277,10 +1280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aryanv1118/DSA-Practice/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aryanv1118/DSA-Practice/tree/master/0207-course-schedule) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryanv1118/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
