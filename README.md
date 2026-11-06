@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2166-design-bitset](https://github.com/Aryanv1118/DSA-Practice/tree/master/2166-design-bitset) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2747-count-zero-request-servers](https://github.com/Aryanv1118/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aryanv1118/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryanv1118/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryanv1118/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryanv1118/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2747-count-zero-request-servers](https://github.com/Aryanv1118/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryanv1118/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryanv1118/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryanv1118/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Aryanv1118/DSA-Practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2747-count-zero-request-servers](https://github.com/Aryanv1118/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryanv1118/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aryanv1118/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryanv1118/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Aryanv1118/DSA-Practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2747-count-zero-request-servers](https://github.com/Aryanv1118/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryanv1118/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryanv1118/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
