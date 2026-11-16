@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aryanv1118/DSA-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2166-design-bitset](https://github.com/Aryanv1118/DSA-Practice/tree/master/2166-design-bitset) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryanv1118/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aryanv1118/DSA-Practice/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2409-count-days-spent-together](https://github.com/Aryanv1118/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/Aryanv1118/DSA-Practice/tree/master/2437-number-of-valid-clock-times) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aryanv1118/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanv1118/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aryanv1118/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryanv1118/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
