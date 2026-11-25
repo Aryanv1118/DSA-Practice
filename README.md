@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryanv1118/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Aryanv1118/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3934-smallest-unique-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aryanv1118/DSA-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanv1118/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aryanv1118/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3934-smallest-unique-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1459,4 +1462,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryanv1118/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
