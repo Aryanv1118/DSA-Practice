@@ -1271,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Aryanv1118/DSA-Practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Aryanv1118/DSA-Practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/Aryanv1118/DSA-Practice/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/1075-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryanv1118/DSA-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Aryanv1118/DSA-Practice/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aryanv1118/DSA-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
