@@ -1274,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Aryanv1118/DSA-Practice/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/Aryanv1118/DSA-Practice/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/1075-project-employees-i) |
+| [1148-article-views-i](https://github.com/Aryanv1118/DSA-Practice/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryanv1118/DSA-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Aryanv1118/DSA-Practice/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/Aryanv1118/DSA-Practice/tree/master/1527-patients-with-a-condition) |
