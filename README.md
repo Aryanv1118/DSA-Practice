@@ -1271,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Aryanv1118/DSA-Practice/tree/master/0627-swap-sex-of-employees) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryanv1118/DSA-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Aryanv1118/DSA-Practice/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aryanv1118/DSA-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Aryanv1118/DSA-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryanv1118/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Aryanv1118/DSA-Practice/tree/master/1873-calculate-special-bonus) |
